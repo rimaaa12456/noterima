@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689354506566",
+    "project_id": "riamalsadi-1ef15",
+    "storage_bucket": "riamalsadi-1ef15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689354506566:android:c1f23bf46ae293bbd92547",
+        "android_client_info": {
+          "package_name": "com.app.riamalsadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689354506566-86oq25s94ra44uqfn0sbafdki7b1rvla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3IMlL8daGXAgX6dvTIsoivdAGfLI71ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689354506566-86oq25s94ra44uqfn0sbafdki7b1rvla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
